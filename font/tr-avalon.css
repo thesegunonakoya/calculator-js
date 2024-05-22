@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'TR Avalon';
+    src: url('./tr-avalon-plain.ttf') format('truetype');
+    font-weight: normal;
+  }
+  
+@font-face {
+    font-family: 'TR Avalon';
+    src: url('./tr-avalon-bold.ttf') format('truetype');
+    font-weight: bold;
+  }
+
+body {
+    font-family: 'TR Avalon', sans-serif; 
+  }
